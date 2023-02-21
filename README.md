@@ -8,5 +8,6 @@ IDE：pycharm、spyder
 
 ![image](https://user-images.githubusercontent.com/97822253/220232586-b62fea98-4ab7-4b5f-9c45-7dfc9ee429dc.png)
 
-![image](https://user-images.githubusercontent.com/97822253/220232674-967e8ee9-1758-4d9c-aba1-c1e124599668.png)
+![image](https://user-images.githubusercontent.com/97822253/220232881-3aae9661-12d5-4ce1-92ed-3d5b7d6ffab2.png)
+
 
